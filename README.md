@@ -1,6 +1,6 @@
-# classification_of_comments
-Классификация комментариев к товарам на позитивные и негативные.
+# final project
+Прогнозирование оттока клиентов
 
-Библиотеки: pandas, numpy, seaborn, matplotlib, pymystem3, nltk, sklearn, optuna, catboost
+Библиотеки: pandas, numpy, seaborn, matplotlib, sklearn, catboost, lightgbm
 
-Модели машинного обучения: SGDClassifier, RandomForest, CatBoost
+Модели машинного обучения: RandomForest, CatBoost, XGBClassifier, LGBMClassifier
